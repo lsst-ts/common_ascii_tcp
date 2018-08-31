@@ -36,6 +36,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1351098368</Property>
 		</Item>
+		<Item Name="Write tcpSettings.vi" Type="VI" URL="../Write tcpSettings.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(/!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!&gt;#82D=#ZM&gt;GRJ9B&amp;51V"$&lt;'FF&lt;H1O&lt;(:D&lt;'&amp;T=Q!.6%.11WRJ:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!R!-0````]#36!!!!N!"A!%='^S&gt;!!!'5!$!".D&lt;WZO:7.U;7^O8X2J&lt;76P&gt;81A!"6!!Q!0=G6B:'FO:V^U;7VF&lt;X6U!"6!!Q!0&gt;X*J&gt;'FO:V^U;7VF&lt;X6U!%)!]&gt;?JO`Q!!!!##82D=#ZM&gt;GRJ9A^51V"4:82U;7ZH=SZD&gt;'Q!)%"1!!5!"Q!)!!E!#A!,#X2D=&amp;.F&gt;(2J&lt;G&gt;T!$2!=!!?!!!&gt;#82D=#ZM&gt;GRJ9B&amp;51V"$&lt;'FF&lt;H1O&lt;(:D&lt;'&amp;T=Q!-6%.11WRJ:7ZU)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!Q!$1)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">524288</Property>
+		</Item>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
