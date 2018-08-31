@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Typedefs" Type="Folder">
-		<Item Name="TCPSettings.ctl" Type="VI" URL="../../tcpTypedefs/TCPSettings.ctl"/>
+		<Item Name="TCPSettings.ctl" Type="VI" URL="../tcpTypedefs/TCPSettings.ctl"/>
 	</Item>
-	<Item Name="TCPClient.lvclass" Type="LVClass" URL="../TCPClient.lvclass"/>
+	<Item Name="TCPClient.lvclass" Type="LVClass" URL="../TCPClient/TCPClient.lvclass"/>
 </Library>
